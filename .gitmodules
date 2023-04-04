@@ -1,12 +1,12 @@
 [submodule "be"]
 	path = be
-	url = ./be
+	url = https://github.com/tokiwa/tgle-be
 [submodule "fe"]
 	path = fe
-	url = ./fe
+	url = https://github.com/tokiwa/tgle-fe
 [submodule "mkgroup"]
 	path = mkgroup
-	url = ./mkgroup
+	url = https://github.com/tokiwa/tgle-mkgroup
 [submodule "w2v"]
 	path = w2v
-	url = ./w2v
+	url = https://github.com/tokiwa/tgle-w2v
