@@ -28,4 +28,4 @@ TGLEはLTI 1.3ツールとして開発されており、Moodle等のLMSをPlatfo
 
 本研究はJSPS 科研費 18K11581 の助成を受けたものです．
 
-![科研費](KAKENHIlogo_s.jpg)
+![科研費](KAKENHIlogo_S.jpg)
