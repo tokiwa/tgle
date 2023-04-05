@@ -2,8 +2,8 @@
 
 ## 概要
 
-TGLEは Tols for Group Learning Envoronmentの略で文字通りグループ学習の環境を支援するツールです。
-次のモジュールから構成されています。
+TGLEは Tools for Group Learning Envoronmentの略で文字通りグループ学習の環境を支援するツールです。
+次のモジュールから構成されており、教員と学習者が投稿したキーワード間の類似度を計算し、そのデータを用いてグループ分けをする機能を提供します。
 - Front-End: PHP + Vue
 - Back-End: PHP + Laravel
 - mkgroup: Python + Flask
@@ -23,6 +23,14 @@ TGLEはLTI 1.3ツールとして開発されており、Moodle等のLMSをPlatfo
 - mkgroup: tgle-mkgroup
 - similarity: tgle-similarity
 
+
+## 利用
+
+次の活用を想定しています。
+
+1. LMSと連携したグループ形成ツール
+1. REST APIを学習するための教材
+1. 製品化する前のプロトタイピング
 
 ## 謝辞
 
